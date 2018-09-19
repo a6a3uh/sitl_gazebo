@@ -142,7 +142,7 @@
       <self_collide>0</self_collide>
     </link>
     <link name='standard_vtol/imu_link'>
-      <pose>0 0 0 0 -1.57 0 1.57</pose>
+      <pose>0 0 0 0 1.57 0 1.57</pose>
       <!-- roll 270 (-90) yaw 270 (-90) for forward-right-down used in flight controller
       is the same as roll -90 yaw 90 for forward-left-up used in gazebo-->
       <inertial>
